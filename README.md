@@ -1,4 +1,5 @@
 # Stock Price Predictor
+GithubLink: https://github.com/AHcc408/stock-price-predictor
 
 Predict stock prices using machine learning. Supports US markets and Indian stocks (NSE/BSE) with automatic USD-INR conversion.
 
